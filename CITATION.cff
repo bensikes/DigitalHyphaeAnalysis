@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Automated image analysis of soil hyphal extracts"
+authors:
+  - family-names: "Schuhl"
+    given-names: "Haley"
+  - family-names: "Sikes"
+    given-names: "Benjamin"
+    orcid: "https://orcid.org/0000-0003-0774-2624"
+version: 1.0.0
+date-released: "2026-09-21"
+url: "https://github.com/bensikes/DigitalHyphaeAnalysis"
+license: "GPL-3.0"
